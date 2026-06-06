@@ -1,8 +1,4 @@
-
-<!-
-**cymmerman/Cymmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# Hey, I'm Tyler
+:# Hey, I'm Tyler
 
 I'm a software and IT professional transitioning into machine learning engineering. I've spent the last several months building a focused portfolio around aerospace and defense applications — predictive maintenance, Bayesian estimation, NLP, and production ML deployment. All four projects use real datasets and go deeper than just training a model.
 
